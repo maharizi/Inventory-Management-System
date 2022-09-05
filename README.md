@@ -1,4 +1,8 @@
 # Inventory-management-system
+A system that optimizes the order and organization in the company and increases its profits.
+
+##---This software was developed by Maor Maharizi---##
+
 ![login](https://user-images.githubusercontent.com/69205898/188473155-341e901a-758c-4d7b-b982-2c6586efdcfb.png)
 ![home](https://user-images.githubusercontent.com/69205898/188473192-c296e277-ed2d-4502-9b8b-3fb1f77b3478.png)
 ![AddProducts](https://user-images.githubusercontent.com/69205898/188473214-02af787f-8a5f-4f27-bda6-f1dabb2e76f6.png)
